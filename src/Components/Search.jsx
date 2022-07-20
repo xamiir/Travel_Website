@@ -19,7 +19,7 @@ const Search = () => {
                 <div className="grid sm:grid-cols-2 gap-8 py-4">
             <div className="flex flex-col lg:flex-row items-center text-center">
                 <button>
-                    <RiCustomerService2Fill className="text-3xl" />
+                    <RiCustomerService2Fill size={40} className="text-3xl" />
                 </button>
                 <div>
                        
@@ -29,7 +29,7 @@ const Search = () => {
             </div>
             <div className="flex flex-col lg:flex-row items-center text-center">
                 <button>
-                   <MdOutlineTravelExplore className="text-3xl" />
+                   <MdOutlineTravelExplore size={40} className="text-3xl " />
                 </button>
                 <div>
                         <h3 className="py-2">LEADIND SURVICE</h3>
